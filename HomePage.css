@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+
+article, aside, figcaption, figure, footer, header, main, nav, section
+{
+    display: block;
+}    
+
+
+header { color: white; text-align: left; text-shadow: 1px 1px 1px rgba(0,0,0,0.3); font-size: 50px;
+}
+body{
+	background-position: center;
+	background-image: url("http://2.bp.blogspot.com/-uEMxrOPyeCQ/VLSDpmtymmI/AAAAAAAAAGo/_snXQBzmTZo/s1600/open-door.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+	
+}
+
+h1 {
+	color: white;
+	/*margin: 50px auto;*/
+	width: 300px;
+	height: 47px;
+    background-color: #000000;
+    border: 1px solid black;
+    opacity: 0.8;
+    filter: alpha(opacity=60); /* For IE8 and earlier */	
+}
+
+h2 {
+	color: white;
+	/*margin: 50px auto;*/
+	width: 300px;
+	height: 35px;
+    background-color: #000000;
+    border: 1px solid black;
+    opacity: 0.8;
+    filter: alpha(opacity=60); /* For IE8 and earlier */	
+}
+
+h3 {
+	padding-left: 60px;
+	color: #b3b3b3;
+	text-shadow: 2px 2px 0 #000000;
+}
+
+.bandwagon{
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
